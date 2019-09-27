@@ -1,2 +1,2 @@
-# archaive
-Archaive for IT blog posting
+# archive
+Archive for IT blog posting
